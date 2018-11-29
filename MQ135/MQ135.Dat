@@ -1,0 +1,11 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MQ135.PrjPcb|ReportField=ProjectFullPath~D:\2018_AD16_Project\2018_Project\MQ135\MQ135.PrjPcb|ReportField=Title~Bill of Materials For Project [MQ135.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~20|ReportField=ReportTime~19:06:26|ReportField=ReportDate~2018/11/28|ReportField=ReportDateTime~2018/11/28 19:06:26|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/11/28|ReportField=CurrentTime~19:06:21|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\2018_AD16_Project\2018_Project\MQ135\MQ135.SchDoc|ReportField=DocumentName~MQ135.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/11/28|ReportField=Organization~|ReportField=ProjectName~MQ135.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MQ135.PrjPcb|ReportField=DataSourceFullPath~D:\2018_AD16_Project\2018_Project\MQ135\MQ135.PrjPcb
+1|Li-battery|纽扣电池LIR2023|BT1, BT2|LIR2032|Li-batttery|2
+2|J-D2.45-1*4|TP401T 气敏传感器|J1|D2.54-1*4P|J-D2.54-1*4单排排母_1|1
+3|3*6*5|贴片-卧式轻触开关|K1, K2, K3, K4, K5, K6|S-K3*6|3*6*5|6
+4|47KF|贴片电阻-通用|R1|R0603|R0603-47KF|1
+5|TP401T|异味传感器|S1||TP401T|1
+6|OLED|OLED IIC屏幕显示|U1, U6||OLED|2
+7|Arduino pro mini|Pro mini|U2, U7||Arduino pro mini|2
+8|MP1484EN|MP1484EN 稳压模块 5V|U3, U8||DC稳压模块|2
+9|HC-05|Bluetooth model|U4, U9||HC-05|2
+10|MQ135|气敏传感器|U5||MQ135|1
